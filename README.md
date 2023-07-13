@@ -1,0 +1,2 @@
+# PTS_news_scrapper
+利用Python中爬蟲特定關鍵字檢索內容，以公視新聞網為例
